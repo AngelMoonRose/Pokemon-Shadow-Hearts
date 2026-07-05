@@ -1,0 +1,189 @@
+Creators Assets I used.
+
+Kyledove
+DiegoWT
+figyberries
+Nezzy
+VanillaSunshine
+Mr. Gela
+Lucidious89
+Golisopod User 
+Naoki Saito
+Emi Ando
+Kazan(TrainerRed)
+Ken Sugimori
+SoundMS
+Ginzuishou
+Sakuma Sanosuke
+TOKIYA
+Jett
+Mak
+Amethyst
+Jan
+Inuki
+Smeargletail
+Mde
+Koyo
+Vulpes Draconis
+andracass
+Slaqueen
+Zeo254
+Hek-el-grande
+PandaInDaGame
+DarkusShadow
+Ulithium_Dragon
+Larry-turbo
+WesleyFG
+GavZxHayley
+kaitodesign
+Kymotonian
+Dewitty
+Magiscarf
+princess-phoenix
+KingTapir
+Phyromatical
+EVoLiNa
+zetavares852
+Kyle-dove
+Manuxd789
+BlackPokeNinja
+DaNerdyDude
+ForeverXShoddyBattle
+DarkDragonn
+Akuma-Tsubasa
+LightningKillua15
+Neo-Spriteman
+PurpleZaffre
+AtomicReactor
+Maicerochico
+GeroisBlackboots
+Wergan
+WeasleyFG
+NikDie
+PurpleZaffre
+LightningKillua15
+Akuma-Tsubasa (WildEyedBoy91)(wildeyedboy91)
+cleystation
+alchemybats
+ThunderDove
+Yourii54
+Diegotoon20
+SirMaio
+Mucrush
+Justin8964
+Gallanty
+EpicDay
+Beliot419
+Anarlaurendil
+Pikachumazzinga
+PixelMister
+DescendedFromUllr
+princess-phoenix
+BoOmxBiG
+Carmaniac
+Elinthind
+
+_INTL("Tilesets"),
+      "Ekat99",
+      "PixelMister",
+      "JesusCarrasco",
+      "WilsonScarloxy",
+      "SailorVicious",
+      "Magiscarf",
+      "ChaoticCherryCake",
+      "Kyle-Dove",
+      "Heavy-Metal-Lover",
+      "WesleyFG",
+      "Dewitty",
+      "Zetavares852",
+      "XDinky",
+      "Newtiteuf",
+      "Alucus",
+      "Erma96",
+      "Hydrargirium",
+      "Poison-Master",
+      "Thedeadheroalistair",
+      "Erma96",
+      "Shutwig",
+      "Asdsimone",
+      "Xxdevil",
+      "Steinnaples",
+      "Hek-el-grande",
+      "sylver1984",
+      "NikNak93",
+      "TeaAddiction",
+      "Gigatom",
+      "The-Red-eX",
+      "PurpleZaffre",
+      "",
+
+
+Pokemon Breakout Assets
+NPB(No pro bro)
+New Wally Overworld sprite by hyo and Wergan
+Base Hoenn tileset by SailorVicious
+Seafolk tileset by vitorluiscolnago,kingtapir and mysticalmew24
+Tilesets by Magiscarf,MewTheMega,Descendedfromullr
+Kyle-Dove,Pablus94,Princess Phoenix,Zeo254,Aveontrainer
+Casino Tiles by Vaz
+Battle Backgrounds by Aveontrainer and Kyle-Dove(Ripped from showdown)
+Bar Tileset by AveonTrainer and TobalCR
+Pokémon Card GB2 - Great Rocket Battle remix by TheLegendofRenegade II
+Camp Tent sprite by Cloudydayjoy
+Overworld sprites by PurpleZaffre,Wergan and Kyle-Dove
+Dice sprite by Dani Maccari
+Special thanks to:
+Pizza
+
+                   ESQUINA CREATIVA
+
+Autor: Zer0
+Colaborador: Pablus94
+
+Eliminado un archivo con tiles privados
+Añadidos tiles de Iametrine
+Añadidos nuevos tiles de PrincessPhoenix
+Eliminado un archivo con tiles privados
+Corregido unos tiles de Mysticalmew borrosos
+Añadidos nuevos tiles de Pablus94
+Añadidos tiles de RainbowRetribution
+Añadidos nuevos tiles de Luna
+Añadidos nuevos tiles de Anarlaurendil
+Añadidos tiles de WilsonScarloxy
+Añadidos nuevos tiles de PkmnAlexandrite
+Actualización de nombre: "Painkiller97" ---> "Nyaruko69 - Painkiller97"
+Añadidos nuevos tiles de Nyaruko69 - Painkiller97
+Añadidos tiles de daybreakM
+Añadidos nuevos tiles de Derlo
+Añadidos tiles de Netroco
+Añadidos tiles de Aveontrainer
+Añadidos nuevos tiles de Mllessentials
+Añadidos tiles de Ross-Hawkins
+Añadidos nuevos tiles de Delta2318
+Añadidos nuevos tiles de PokemonTilesetStudio
+Cambio en la organización de carpetas
+Cambio en la organización de tiles
+Eliminados varios archivo con tiles privados
+Añadidos nuevos tiles de Phyromatical
+Actualizados los créditos de varios archivos
+Añadidos nuevos tiles de ClaraWaH
+Añadidos tiles de Emimonserrate
+Añadidos nuevos tiles de Zeo
+Añadidos fondos de batalla
+Eliminados varios archivos con tiles en mala calidad
+Añadidos nuevos tiles de Magiscarf
+Añadidos muchos cambios a la sección de sprites
+Añadidos tiles de KaiZGraphics
+Añadidos tiles de KingTapir
+Añadidos nuevos tiles de Aveontrainer
+Añadidos nuevos autotiles de Pablus94
+Añadidos tiles de BE_Infinity
+Añadidos nuevos tiles de MichaKing
+Añadidos nuevos tiles de LunaMaddalena
+Añadidos tiles de InsidiousSys
+Añadidos tiles de Mllessentials
+Añadidos tiles de KioRaka
+
+Credit if used:
+
+Pokémon is owned by: The Pokémon Company, Nintendo, & affiliated with Game Freak
