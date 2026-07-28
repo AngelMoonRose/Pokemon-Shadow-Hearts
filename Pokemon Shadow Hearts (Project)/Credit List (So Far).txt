@@ -82,6 +82,10 @@ princess-phoenix
 BoOmxBiG
 Carmaniac
 
+SirMalo for tilesets
+
+DFP for Heartle and Pingpongun
+
 _INTL("Tilesets"),
       "Ekat99",
       "PixelMister",
