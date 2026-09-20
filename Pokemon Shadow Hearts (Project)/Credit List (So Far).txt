@@ -95,6 +95,7 @@ Aqua
 Megumi Mizutani
 PurpleZaffre
 Jahvansi
+SoundMS
 
 SirMalo for tilesets
 
